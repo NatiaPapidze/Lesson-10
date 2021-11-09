@@ -1,0 +1,48 @@
+.div-header{
+    background-image: url("../img/header.png");
+    background-repeat: no-repeat;
+    margin:o auto;
+    width: 100%;
+    height: 324px;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+}
+.nav-li{
+    display: inline-block;
+    margin-left: 49px
+}
+.nav-li a{
+    color: white;
+    size: 12px;
+}
+.div-logo{
+    margin-top: 32px;
+    max-width: 90px;
+    width: 100%;
+}
+.div-logo img{
+    width: 100%;
+}
+.div-navigation{
+    margin-top: 32px;
+}
+.contact-header{
+    max-width: 180px;
+    width: 100%;
+    color: white;
+    position: absolute;
+    bottom: 85px;
+    left: 139px;
+    background-color: violet;
+    
+}
+.div-line{
+    width: 1px;
+    height: 19px;
+    background-color: white;
+    display: inline-block;
+}
+.title{
+    display: flex;
+}

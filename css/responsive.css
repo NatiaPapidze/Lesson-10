@@ -1,0 +1,8 @@
+@media(max-width: 350px){
+    .contact-header{
+        background-color: red;
+    }
+    .nav-li a{
+        color: seagreen;
+    }
+}
